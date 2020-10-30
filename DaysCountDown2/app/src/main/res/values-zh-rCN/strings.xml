@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">等那么一天</string>
+    <string name="ADD">添加</string>
+    <string name="SAVE">保存</string>
+    <string name="inputDateHint">请输入事件名称</string>
+    <string name="selectDate">请选择日期（年/月/日）</string>
+    <string name="mainLabel">天天记</string>
+    <string name="addLabel">添加事件</string>
+    <string name="Until">天  还有</string>
+    <string name="Since">天  已经</string>
+    <string name="Start_Date">起始日：</string>
+    <string name="Target_Date">目标日：</string>
+    <string name="leave_title">确定要离开嘛？</string>
+    <string name="yes_button">确定</string>
+    <string name="no_button">取消</string>
+    <string name="quit_title">确定要退出嘛？</string>
+    <string name="delete_title">确定要删除嘛？</string>
+</resources>

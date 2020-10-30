@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DaysCountDown</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="ADD">ADD</string>
+    <string name="SAVE">SAVE</string>
+    <string name="InputDates" translatable="false" />
+    <string name="inputDateHint">Please enter the event name</string>
+    <string name="selectDate">Please select the date(YYYY/MM/DD)</string>
+    <string name="imageView" translatable="false">imageView</string>
+    <string name="mainLabel">DaysCountDown</string>
+    <string name="addLabel">Add a new date</string>
+    <string name="days" translatable="false">days</string>
+    <string name="daysSinceUntil" translatable="false">daysSinceUntil</string>
+    <string name="event" translatable="false">event</string>
+    <string name="test" translatable="false">test</string>
+    <string name="delete" translatable="false">delete</string>
+    <string name="deleteAll" translatable="false">deleteAll</string>
+    <string name="Until">Days Until</string>
+    <string name="Since">Days Since</string>
+    <string name="date" translatable="false">YYYY/MM/DD</string>
+    <string name="StartOrTarget" translatable="false">StartOrTarget</string>
+    <string name="Start_Date">Start Date:</string>
+    <string name="Target_Date">Target Date:</string>
+    <string name="leave_title">Are you sure to leave?</string>
+    <string name="yes_button">yes</string>
+    <string name="no_button">no</string>
+    <string name="quit_title">Are you sure to quit?</string>
+    <string name="delete_title">Are you sure to delete?</string>
+
+</resources>
